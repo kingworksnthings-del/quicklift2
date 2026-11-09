@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple dumbbell -->
+    <path android:fillColor="#FFB74D" android:pathData="M40,51.5H68V56.5H40Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M35,39H42V69H35Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M66,39H73V69H66Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M29,45H35V63H29Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M73,45H79V63H73Z" />
+</vector>
